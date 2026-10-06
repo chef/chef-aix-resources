@@ -17,6 +17,13 @@ Requiring `chef_aix_resources` also loads Chef when Chef has not already been
 loaded. The entrypoint is idempotent and leaves an already-defined AIX
 implementation in place.
 
+## Official support boundary
+
+Official support for AIX nodes is a premium Chef offering delivered through
+Target Mode by `agentless-aix-extensions` for licensed AIX users. This
+repository is not that supported offering; it is an optional,
+community-maintainable local-mode compatibility snapshot.
+
 ## Included AIX implementation
 
 The snapshot supplies the AIX-specific implementations for:
