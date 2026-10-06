@@ -1,0 +1,7 @@
+.bundle/
+vendor/bundle/
+coverage/
+pkg/
+checksums/
+Gemfile.lock
+*.gem
