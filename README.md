@@ -65,10 +65,10 @@ There is no guaranteed maintenance schedule, compatibility guarantee for future
 Chef releases, or commitment to repair unsupported AIX Ruby packaging. Issues
 and fixes are welcome from the community.
 
-The private `agentless-aix-extensions` project is a separate, go-forward
-Target Mode implementation. It is not included here and should be treated as
-the authoritative implementation when it is explicitly loaded for premium
-Target Mode use.
+The private `agentless-aix-extensions` project is the premium extension to
+Chef that makes Target Mode functionality available to licensed AIX users. It
+is not included here and should be treated as the authoritative implementation
+when it is explicitly loaded for premium Target Mode use.
 
 ## Development
 
